@@ -1,5 +1,9 @@
 import Image from 'next/image';
 import { lusitana } from '@/app/ui/font';
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6b030154dcb0ca2d18996c8df3f39ef029579e00
 import Search from '@/app/ui/search';
 import { CustomersTable, FormattedCustomersTable } from '@/app/lib/definitions';
 
